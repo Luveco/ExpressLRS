@@ -114,7 +114,7 @@ Anyone can add an entry to the table, and entries should include the:
 | 4.77Km | 900M | 200HZ | 250mW | No | DaBit | https://www.youtube.com/watch?v=k0lY0XwB6Ko |
 | 3Km | 2.4G (ceramic chip antenna RX) | 500HZ | 100mW | No | Spec | https://www.youtube.com/watch?v=kfa6ugX46n8 |
 | 2.28Km | 900M | 50HZ | 10mW | No | Mike Malagoli | https://www.youtube.com/watch?v=qi4OygUAZxA&t=75s |
-
+| 4.00Km | 900M | 100HZ | 500mW | No | Aaron Vergara | https://www.youtube.com/watch?v=o_DbErp85cQ |
 
 ## Legal Stuff
 The use and operation of this type of device may require a license and some countries may forbid its use. It is entirely up to the end user to ensure compliance with local regulations. This is experimental software/hardware and there is no guarantee of stability or reliability. **USE AT YOUR OWN RISK**
